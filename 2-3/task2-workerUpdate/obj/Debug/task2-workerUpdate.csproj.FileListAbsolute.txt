@@ -1,0 +1,5 @@
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\task2-workerUpdate\bin\Debug\task2_workerUpdate.exe
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\task2-workerUpdate\bin\Debug\task2_workerUpdate.pdb
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\task2-workerUpdate\obj\Debug\task2-workerUpdate.csprojResolveAssemblyReference.cache
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\task2-workerUpdate\obj\Debug\task2_workerUpdate.exe
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\task2-workerUpdate\obj\Debug\task2_workerUpdate.pdb

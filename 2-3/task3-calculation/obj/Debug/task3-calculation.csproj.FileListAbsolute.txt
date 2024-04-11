@@ -1,0 +1,5 @@
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\task3-calculation\bin\Debug\task3_calculation.exe
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\task3-calculation\bin\Debug\task3_calculation.pdb
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\task3-calculation\obj\Debug\task3-calculation.csprojResolveAssemblyReference.cache
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\task3-calculation\obj\Debug\task3_calculation.exe
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\task3-calculation\obj\Debug\task3_calculation.pdb

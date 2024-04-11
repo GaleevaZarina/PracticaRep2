@@ -1,0 +1,24 @@
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\RomanNumbers\bin\Debug\RomanNumbers.exe
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\RomanNumbers\bin\Debug\RomanNumbers.pdb
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\RomanNumbers\obj\Debug\RomanNumbers.csproj.AssemblyReference.cache
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\RomanNumbers\obj\Debug\RomanNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\RomanNumbers\obj\Debug\RomanNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\RomanNumbers\obj\Debug\RomanNumbers.exe
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\RomanNumbers\obj\Debug\RomanNumbers.pdb
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\RomanNumbers\bin\Debug\RomanNumbers.exe
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\RomanNumbers\bin\Debug\RomanNumbers.pdb
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\RomanNumbers\obj\Debug\RomanNumbers.csprojResolveAssemblyReference.cache
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\RomanNumbers\obj\Debug\RomanNumbers.exe
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\RomanNumbers\obj\Debug\RomanNumbers.pdb
+C:\Users\gr624_gazru\Downloads\КОДЫ\2-1\RomanNumbers\bin\Debug\RomanNumbers.exe
+C:\Users\gr624_gazru\Downloads\КОДЫ\2-1\RomanNumbers\bin\Debug\RomanNumbers.pdb
+C:\Users\gr624_gazru\Downloads\КОДЫ\2-1\RomanNumbers\obj\Debug\RomanNumbers.csprojResolveAssemblyReference.cache
+C:\Users\gr624_gazru\Downloads\КОДЫ\2-1\RomanNumbers\obj\Debug\RomanNumbers.exe
+C:\Users\gr624_gazru\Downloads\КОДЫ\2-1\RomanNumbers\obj\Debug\RomanNumbers.pdb
+C:\Users\Galee\Downloads\КОДЫ\2-1\RomanNumbers\bin\Debug\RomanNumbers.exe
+C:\Users\Galee\Downloads\КОДЫ\2-1\RomanNumbers\bin\Debug\RomanNumbers.pdb
+C:\Users\Galee\Downloads\КОДЫ\2-1\RomanNumbers\obj\Debug\RomanNumbers.csproj.AssemblyReference.cache
+C:\Users\Galee\Downloads\КОДЫ\2-1\RomanNumbers\obj\Debug\RomanNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Galee\Downloads\КОДЫ\2-1\RomanNumbers\obj\Debug\RomanNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Galee\Downloads\КОДЫ\2-1\RomanNumbers\obj\Debug\RomanNumbers.exe
+C:\Users\Galee\Downloads\КОДЫ\2-1\RomanNumbers\obj\Debug\RomanNumbers.pdb
