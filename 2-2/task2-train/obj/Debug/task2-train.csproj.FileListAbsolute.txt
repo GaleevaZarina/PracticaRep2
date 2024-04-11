@@ -1,0 +1,7 @@
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\task2-train\bin\Debug\task2_train.exe
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\task2-train\bin\Debug\task2_train.pdb
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\task2-train\obj\Debug\task2-train.csproj.AssemblyReference.cache
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\task2-train\obj\Debug\task2-train.csproj.SuggestedBindingRedirects.cache
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\task2-train\obj\Debug\task2-train.csproj.CoreCompileInputs.cache
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\task2-train\obj\Debug\task2_train.exe
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\task2-train\obj\Debug\task2_train.pdb

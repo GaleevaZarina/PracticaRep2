@@ -1,0 +1,14 @@
+C:\Users\Galee\Downloads\КОДЫ\2-1\task2\bin\Debug\pr2_2.exe
+C:\Users\Galee\Downloads\КОДЫ\2-1\task2\bin\Debug\pr2_2.pdb
+C:\Users\Galee\Downloads\КОДЫ\2-1\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+C:\Users\Galee\Downloads\КОДЫ\2-1\task2\obj\Debug\task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Galee\Downloads\КОДЫ\2-1\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\Galee\Downloads\КОДЫ\2-1\task2\obj\Debug\pr2_2.exe
+C:\Users\Galee\Downloads\КОДЫ\2-1\task2\obj\Debug\pr2_2.pdb
+C:\Users\Galee\Downloads\КОДЫ\task2\bin\Debug\pr2_2.exe
+C:\Users\Galee\Downloads\КОДЫ\task2\bin\Debug\pr2_2.pdb
+C:\Users\Galee\Downloads\КОДЫ\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+C:\Users\Galee\Downloads\КОДЫ\task2\obj\Debug\task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Galee\Downloads\КОДЫ\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\Galee\Downloads\КОДЫ\task2\obj\Debug\pr2_2.exe
+C:\Users\Galee\Downloads\КОДЫ\task2\obj\Debug\pr2_2.pdb

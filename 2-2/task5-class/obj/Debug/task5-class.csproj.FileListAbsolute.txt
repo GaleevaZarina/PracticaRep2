@@ -1,0 +1,7 @@
+C:\Users\Galee\Downloads\КОДЫ\2-1\task5-class\bin\Debug\task5_class.exe
+C:\Users\Galee\Downloads\КОДЫ\2-1\task5-class\bin\Debug\task5_class.pdb
+C:\Users\Galee\Downloads\КОДЫ\2-1\task5-class\obj\Debug\task5-class.csproj.AssemblyReference.cache
+C:\Users\Galee\Downloads\КОДЫ\2-1\task5-class\obj\Debug\task5-class.csproj.SuggestedBindingRedirects.cache
+C:\Users\Galee\Downloads\КОДЫ\2-1\task5-class\obj\Debug\task5-class.csproj.CoreCompileInputs.cache
+C:\Users\Galee\Downloads\КОДЫ\2-1\task5-class\obj\Debug\task5_class.exe
+C:\Users\Galee\Downloads\КОДЫ\2-1\task5-class\obj\Debug\task5_class.pdb

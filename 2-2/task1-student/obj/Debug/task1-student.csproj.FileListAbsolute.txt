@@ -1,0 +1,7 @@
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\task1-student\bin\Debug\task1_student.exe
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\task1-student\bin\Debug\task1_student.pdb
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\task1-student\obj\Debug\task1-student.csproj.AssemblyReference.cache
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\task1-student\obj\Debug\task1-student.csproj.SuggestedBindingRedirects.cache
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\task1-student\obj\Debug\task1-student.csproj.CoreCompileInputs.cache
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\task1-student\obj\Debug\task1_student.exe
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\task1-student\obj\Debug\task1_student.pdb

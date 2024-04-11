@@ -1,0 +1,12 @@
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\task3-numbers\bin\Debug\task3_numbers.exe
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\task3-numbers\bin\Debug\task3_numbers.pdb
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\task3-numbers\obj\Debug\task3-numbers.csproj.AssemblyReference.cache
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\task3-numbers\obj\Debug\task3-numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\task3-numbers\obj\Debug\task3-numbers.csproj.CoreCompileInputs.cache
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\task3-numbers\obj\Debug\task3_numbers.exe
+C:\Users\Galee\OneDrive\Рабочий стол\КОДЫ\2-1\task3-numbers\obj\Debug\task3_numbers.pdb
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\task3-numbers\bin\Debug\task3_numbers.exe
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\task3-numbers\bin\Debug\task3_numbers.pdb
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\task3-numbers\obj\Debug\task3-numbers.csprojResolveAssemblyReference.cache
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\task3-numbers\obj\Debug\task3_numbers.exe
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\task3-numbers\obj\Debug\task3_numbers.pdb

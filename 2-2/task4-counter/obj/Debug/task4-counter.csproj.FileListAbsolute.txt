@@ -1,0 +1,5 @@
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\task4-counter\bin\Debug\task4_counter.exe
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\task4-counter\bin\Debug\task4_counter.pdb
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\task4-counter\obj\Debug\task4-counter.csprojResolveAssemblyReference.cache
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\task4-counter\obj\Debug\task4_counter.exe
+C:\Users\public.COPP\Downloads\КОДЫ\2-1\task4-counter\obj\Debug\task4_counter.pdb
